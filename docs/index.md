@@ -1,17 +1,11 @@
-# Welcome to MkDocs
+# Welcome to Contentabl
 
-For full documentation visit [mkdocs.org](https://www.mkdocs.org).
+This site is currently UNDER CONSTRUCTION.
 
-## Commands
+Apologies for any inconvenience. 
 
-* `mkdocs new [dir-name]` - Create a new project.
-* `mkdocs serve` - Start the live-reloading docs server.
-* `mkdocs build` - Build the documentation site.
-* `mkdocs -h` - Print help message and exit.
+But ... 
 
-## Project layout
+!!! tip 
 
-    mkdocs.yml    # The configuration file.
-    docs/
-        index.md  # The documentation homepage.
-        ...       # Other markdown pages, images and other files.
+​    You can still use all of the links that work here - schedule time with me, see my portfolio. And the site will be back to normal in a flash. Thanks for your patience!
